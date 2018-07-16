@@ -1,0 +1,15 @@
+{
+  "name": "xander-hubdoc-takehome",
+  "version": "1.0.0",
+  "description": "Xander's takehome assignment for Hubdoc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Xander Griff",
+  "license": "ISC",
+  "dependencies": {
+    "csv-write-stream": "^2.0.0",
+    "nightmare": "^3.0.1"
+  }
+}
