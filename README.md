@@ -2,8 +2,14 @@
 
 ## Installation Instructions
 
-1. Clone files from Github repo
-2. 
+1. Ensure you have the latest version of NPM (v6.2.0) and Node.js (v10.6.0) installed 
+2. Clone files from Github repo
+3. Navigate to the downloaded directory in your terminal
+4. (Optional) Delete the included output.csv file if you want to see the script to generate a new file
+4. Run the following commands:
+     - ```npm install```
+     - ```node --experimental-modules main.mjs```
+5. Navigate to the generated output.csv and open to confirm results
 
 ## Working Notes
 
